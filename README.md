@@ -1,2 +1,2 @@
 # First Work
-### Computacion, Ecuaciones Dif., Termodinamica
+### Computación, Ecuaciones Diferenciales, Termodinámica
